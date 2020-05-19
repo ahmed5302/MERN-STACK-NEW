@@ -1,0 +1,49 @@
+body{
+    background-color: #ddd;
+}
+.loginSec{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 100px;
+    width:350px;
+}
+.loginSec form{
+    width: 100%;
+}
+.loginSec form div{
+    padding: 10px 3px;
+}
+.loginSec form div label{
+    display: block
+}
+.loginSec form div input{
+    width: 100%;
+    padding: 6px 12px;
+}
+.empform{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 100px;
+    width:750px;
+}
+.tableSec{
+    width:750px;
+    margin: 30px auto 10px;
+}
+.empform form{
+    width: 100%;
+}
+.empform form div{
+    padding: 10px 3px;
+    display: inline-block;
+    width: 49%;
+}
+.empform form div label{
+    display: block
+}
+.empform form div input{
+    width: 100%;
+    padding: 6px 12px;
+}
